@@ -81,3 +81,20 @@ const Paginator = ({pageSize, totalUsersCount, requestTotalUsersCount, onPageCha
 export default Paginator;
 ```
 link to all [code](https://github.com/NikolayPhizik/Test1.git)
+
+&nbsp;
+## 👨‍💻 Experience
+I created my own social network while studying the course react the way of the samurai. During the development process, I gained skills in working with such libraries as React, Redux, React-Redux, creating asynchronous requests to the server using the axios library, using Redux-form, Redux-thunk. Gained the understanding and skill of creating a three-layer architecture of applications, where the first layer is the User Interface (UI), the second layer is the Business Logic Layer (BLL), the third layer is the Data Access Layer (DAL).
+
+[Link to the source code of this project](https://github.com/NikolayPhizik/SocialNetworkCode.git)
+
+While studying the JavaScript language, I created a calculator program that calculates one parameter of the oscillatory circuit using two other parameters and an encoder, into which a text and a password are entered, as a result, the output is a cipher text in hexadecimal form. Both programs are my authorship. In these programs, I applied architectural separation of the code, divided it into two files, one responsible for user interaction, and the second for the logic of work. Also, while studying JavaScript, I learned how to work with the Git version control system, create and work with repositories, with local and remote ones on Github.
+The results of the work can be viewed on Github Pages:
+* [Calculator link](https://nikolayphizik.github.io/Calculator/)
+* [calculator source code](https://github.com/NikolayPhizik/Calculator)
+* [Link to the encryptor](https://nikolayphizik.github.io/Shifrator/)
+* [encoder source code](https://github.com/NikolayPhizik/Shifrator)
+
+While studying on the HTML Academy platform, I studied semantic layout, as well as got acquainted with the concept of accessibility, and during the training I made up the site.
+* [Link to Github Pages](https://nikolayphizik.github.io/Barbershop/)
+* [Link to source code](https://github.com/NikolayPhizik/Barbershop)
