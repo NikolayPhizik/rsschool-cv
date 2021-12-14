@@ -13,7 +13,7 @@ Email | nikolay.eremin82@mail.ru
 Discord | Nikolay#2026
 GitHub | NikolayPhizik
 Skype | nikolay.phizik
-LinkedIn | https://www.linkedin.com/in/nikolayphizik
+LinkedIn | [linkedin](https://www.linkedin.com/in/nikolayphizik)
 
 &nbsp;
 ## 📝 About me
