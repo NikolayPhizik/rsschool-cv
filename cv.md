@@ -1,5 +1,5 @@
 
-![Фото для профиля](img/ProfilePhoto.jpg "Фото для профиля")
+![Profile photo](img/ProfilePhoto.jpg "Profile photo")
 
 # Nikolay Yeremin
 ### Junior Frontend Developer
