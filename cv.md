@@ -98,3 +98,17 @@ The results of the work can be viewed on Github Pages:
 While studying on the HTML Academy platform, I studied semantic layout, as well as got acquainted with the concept of accessibility, and during the training I made up the site.
 * [Link to Github Pages](https://nikolayphizik.github.io/Barbershop/)
 * [Link to source code](https://github.com/NikolayPhizik/Barbershop)
+
+&nbsp;
+## 🎓 Education
+
+### Online learning
+
+July - November 2021 | [Course react the way of the samurai](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+----------------------|-----------------------------------------
+April - July 2021 | [JavaScript](https://learn.javascript.ru/) and the book "Expressive JavaScript" by Marein Haverbeke.
+February - April 2021 | [HTML Academy](https://htmlacademy.ru)
+
+&nbsp;
+## 📚 English
+* My English level is now - A1. I am currently studying on my own.
