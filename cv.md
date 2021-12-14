@@ -21,3 +21,12 @@ LinkedIn | [linkedin](https://www.linkedin.com/in/nikolayphizik)
 My goal is to start a career as a junior front-end developer and develop to a full understanding of building the architecture of complex projects. 
 
 Currently I work as an auto electrician diagnostician. I love to learn new things. While working as an auto electrician-diagnostician, he acquired the skill of analytical thinking, the skill of collecting data necessary for diagnostics and troubleshooting when communicating with a client, and the skill of working in a team.
+
+&nbsp;
+## 🧩 Skills
+
+* HTML + CSS
+* JavaScript
+* React 
+* Redux
+* Git
