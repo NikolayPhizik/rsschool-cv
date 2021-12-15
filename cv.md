@@ -99,6 +99,13 @@ While studying on the HTML Academy platform, I studied semantic layout, as well 
 * [Link to Github Pages](https://nikolayphizik.github.io/Barbershop/)
 * [Link to source code](https://github.com/NikolayPhizik/Barbershop)
 
+April 2018 - To date | Auto electrician diagnostician.
+---------------------|-------------------------
+September 2017 - March 2018 | Auto mechanic assistant
+September 2014 - November 2016 | High School Physics Teacher
+May 2003 - January 2010 | Photographer
+
+
 &nbsp;
 ## 🎓 Education
 
