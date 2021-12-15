@@ -116,6 +116,14 @@ July - November 2021 | [Course react the way of the samurai](https://www.youtube
 April - July 2021 | [JavaScript](https://learn.javascript.ru/) and the book "Expressive JavaScript" by Marein Haverbeke.
 February - April 2021 | [HTML Academy](https://htmlacademy.ru)
 
+### Offline learning
+
+University | Kyrgyz State University
+-----------|----------------------
+Faculty | Physics and electronics
+specialty | physics
+
+
 &nbsp;
 ## 📚 English
-* My English level is now - A1. I am currently studying on my own.
+* My English level is now - A1(Elementary). I am currently studying on my own.
