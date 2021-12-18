@@ -52,7 +52,6 @@ function LinearSearch(arr, item) {
     return null;
 }
 ```
-link to all [code](https://github.com/NikolayPhizik/Test1.git)
 
 &nbsp;
 ## 👨‍💻 Experience
