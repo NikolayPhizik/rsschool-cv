@@ -39,7 +39,6 @@ body {
 }
 
 .nav-link {
-  position: relative;
   padding: 0 12px;
   text-decoration: none;
   font-size: 20px;
@@ -195,4 +194,32 @@ body {
 
 .section-item a:hover {
   color: #4d2323;
+}
+
+.footer {
+  background-image: url(./img/pattern-dark.jpg);
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.github {
+  color: #fff;
+  text-decoration: none;
+  line-height: 45px;
+}
+
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url(./img/svg/rss.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
