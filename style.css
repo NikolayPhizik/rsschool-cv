@@ -223,3 +223,29 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+@media (max-width: 1440px) {
+  .container {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+  .section-profile {
+    flex-direction: column;
+    align-items: center;
+  }  
+  .footer-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .nav-list {
+    flex-wrap: wrap;
+  }
+  .nav-link {
+  	font-size: 14px;
+  }
+}
